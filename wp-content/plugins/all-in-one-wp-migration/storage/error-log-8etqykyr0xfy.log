@@ -1,0 +1,6 @@
+Jan 13 2025 07:15:39
+{"Number":2,"Message":"rmdir(C:\\Users\\ngoba\\Local Sites\\demoallstarai\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\8etqykyr0xfy): Directory not empty","File":"C:\\Users\\ngoba\\Local Sites\\demoallstarai\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\filesystem\\class-ai1wm-directory.php","Line":72}
+
+Jan 13 2025 07:15:40
+{"Number":2,"Message":"filesize(): stat failed for C:\\Users\\ngoba\\Local Sites\\demoallstarai\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\storage\\8etqykyr0xfy\\demoallstarai-local-20250113-071538-un6pboq0vml7.wpress","File":"C:\\Users\\ngoba\\Local Sites\\demoallstarai\\app\\public\\wp-content\\plugins\\all-in-one-wp-migration\\lib\\vendor\\servmask\\archiver\\class-ai1wm-archiver.php","Line":231}
+
